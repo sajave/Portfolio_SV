@@ -386,6 +386,14 @@ img {
   display: inline-flex;
   align-items: center;
 }
+
+.button--submit {
+  display: inline-flex;
+  align-items: center;
+  border: none;
+  font-family: var(--body-font);
+}
+
 /*==================== ABOUT ====================*/
 .about__img {
   width: 200px;
